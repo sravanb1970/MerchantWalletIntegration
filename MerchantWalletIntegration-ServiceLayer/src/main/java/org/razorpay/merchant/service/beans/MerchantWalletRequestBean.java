@@ -1,6 +1,6 @@
 package org.razorpay.merchant.service.beans;
 
-public class MerchantWalletRequestBeans {
+public class MerchantWalletRequestBean {
 	private CCDetails ccDetails;
 	private UserDetails userDetails;
 	private ClientDetails clientDetails;
